@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from app import app
-from gevent.wsgi import WSGIServer
+from gevent.pywsgi import WSGIServer
 
 #: HTTPS, SSL 설정
 # cert = './cert_key/mysite.cert.pem'
