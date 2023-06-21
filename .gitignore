@@ -1,0 +1,6 @@
+cert_key/
+*.pyc
+*.swp
+.DS_Store
+.idea/
+
